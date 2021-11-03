@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137809381080",
+    "project_id": "resto-69a60",
+    "storage_bucket": "resto-69a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137809381080:android:302ce9c65b7089709db9ad",
+        "android_client_info": {
+          "package_name": "com.cisnux.resto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137809381080-flfqtns1se0hpcoerqep4q8v0pcug2l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cisnux.resto_app",
+            "certificate_hash": "e3772b8ac66d578ac9817c4ddc621ef814c9d825"
+          }
+        },
+        {
+          "client_id": "137809381080-ufsicq709bcnoggo49915urucek85nj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvaHpEK8SEX2LzYkkWWmgIUcLAW-70nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137809381080-ufsicq709bcnoggo49915urucek85nj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
